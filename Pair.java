@@ -74,7 +74,7 @@ class Pair{
 			//gets max so far at this level of the recursion
 			if(max < (current_pair_score + best.score)){
 			   max = current_pair_score + best.score;
-			   best_pair = lookup_pair + best.student_set;
+			   best_pair = lookup_pair + " " + best.student_set;
 			}
 		}
 		best.score = max;
