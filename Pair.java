@@ -3,7 +3,7 @@ import java.lang.*;
 
 class Pair{
 
- 	 public static class bestMatch
+     public static class bestMatch
      {
      private String student_set;
      private int score;
