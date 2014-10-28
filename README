@@ -1,4 +1,4 @@
-Finds the most benefit pairing of students in a group, represented by letters. 
+Finds the most beneficial pairing of students in a group, represented by letters. 
 Each pair has a score representing the max benefit from a learning exchange. 
 
 Sample Output:
